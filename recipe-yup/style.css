@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    color:white;
+}
+.header{
+    text-align: center;
+    background-color: transparent;
+    font-size: 50px;
+    font-weight: 700;
+}

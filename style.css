@@ -1,0 +1,30 @@
+*{
+    text-align:start;
+}
+.bio{
+    color:white;
+    font-weight: 500;
+}
+.intro{
+    font-size: 32px;
+}
+.aboutme{
+    font-size: 22px;
+}
+
+#title{
+    color:white;
+    background-color: transparent;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.recipes#list{
+    background-color: rgb(10, 194, 175);
+    border-radius: 80px;
+    padding:10px 50px;
+    border: darkorchid;
+    position: absolute;
+    margin: 15px 100px;
+}
